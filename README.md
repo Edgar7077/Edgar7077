@@ -13,7 +13,7 @@ Cómo contactarme **edgar@talktokai.com**
 
 - Dato curioso: **Me gusta la música y la lucha libre.**
 
-h3 align="left">Conéctate conmigo:</h3>
+Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edgar vázquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar vázquez" height="30" width="40" /></a>
 </p>
