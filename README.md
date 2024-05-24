@@ -11,7 +11,7 @@ Pregúntame sobre **Arduino, C++, Flutter y Excel**
 
 Cómo contactarme **edgar@talktokai.com**
 
-- Dato curioso: **Me gusta la música y la lucha libre.**<
+- Dato curioso: **Me gusta la música y la lucha libre.**
 
 h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
