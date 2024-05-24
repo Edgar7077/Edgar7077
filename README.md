@@ -3,11 +3,11 @@
 
 - Actualmente estoy trabajando en [kAI](https://kai.kgappss.com/es/)
 
-- Actualmente estoy aprendiendo **Postman**-
+- Actualmente estoy aprendiendo **Postman**
 
-Estoy buscando colaborar en **Áreas de Desarrollo de Software**-
+Estoy buscando colaborar en **Áreas de Desarrollo de Software**
 
-Pregúntame sobre **Arduino, C++, Flutter y Excel**-
+Pregúntame sobre **Arduino, C++, Flutter y Excel**
 
 Cómo contactarme **edgar@talktokai.com**
 
